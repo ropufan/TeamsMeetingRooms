@@ -6,6 +6,7 @@
 - Advanced Spec for Meeting Rooms overview
 - Create page for HOW TO work with Partner Center
 - Legal disclaimers defaults
+- automate the HTTPS endpoint creation & logic app
 
 ## Robert
 
