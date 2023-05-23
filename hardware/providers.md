@@ -8,7 +8,9 @@
 ## Lenovo
 ## Logitech
 ## Poly
+
+![X30](./images/vendors/poly/X30.jpg "POLY X30")
+
 ## Samsung
 ## Yealink
 ## NEAT
-
