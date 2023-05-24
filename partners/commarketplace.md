@@ -5,9 +5,9 @@ Microsoft's commercial marketplace is a vibrant platform that empowers partners 
 > **Note**
 > If your Partner Center account is not enrolled in the Commercial Marketplace program, [read this documentation](https://learn.microsoft.com/en-us/partner-center/marketplace/create-account).
 
-To begin, you will navigate to the [Partner Center](https://partner.microsoft.com/en-us/dashboard/home), more specifically the [Commercial Marketplace](https://partner.microsoft.com/en-us/dashboard/commercial-marketplace/overview) section. Within this module of Partner Center, you gain access to essential features for creating and managing your offerings intended for publication on the Microsoft Commercial Marketplace. There are [multiple types of offerings](https://learn.microsoft.com/en-us/partner-center/marketplace/determine-your-listing-type) that you can publish on the Microsoft Commercial Marketplace, and each has its settings and lifecycle.
+To begin, you will navigate to the [Partner Center](https://partner.microsoft.com/en-us/dashboard/home), more specifically the [Commercial Marketplace](https://partner.microsoft.com/en-us/dashboard/commercial-marketplace/overview) section. Within this module of Partner Center, you gain access to essential features for creating and managing your offerings intended for publication on the Microsoft Commercial Marketplace. There are ⚒️[multiple types of offerings](https://learn.microsoft.com/en-us/partner-center/marketplace/determine-your-listing-type)⚒️ that you can publish on the Microsoft Commercial Marketplace, and each has its settings and lifecycle.
 
-## Consulting Services
+## `⚒️` Consulting Services
 
 Partners' consulting services in collaboration with Microsoft offer expert guidance for businesses embarking on digital transformation. With deep industry knowledge and technical expertise, these partners provide tailored solutions to enhance operational efficiency, productivity, and unlock new opportunities. From strategy development to implementation and optimization, partners work closely with organizations to navigate complexities and drive long-term success in the ever-evolving business landscape. Together with Microsoft's resources and technologies, these consulting services empower businesses to achieve their digital transformation goals effectively.
 
