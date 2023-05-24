@@ -7,6 +7,7 @@ See in the link the official and updated list of [certified systems and peripher
 
 | Vendor          | Compute Windows | Compute Android | Consoles | Cameras | Content Cameras | Intelligent Cameras | Microphones | Speakers | Touchscreen Large Board
 | :-------------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| [Poly-HP](./Poly-HP.md)         | ✅          |✅        |✅       |✅        |❌        |✅        |✅        |✅        |❌        |
 | Audiocodes      | Title         | ✅        | Title        | Title      | Title       | Title       | Title       | Title       | Title       |
 | AVer            | 🤝          |Text        |Text        |Text        |Text        |Text        |Text        |Text        |Text        |
 | BOSE            | Text          |Text        |Text        |Text        |Text        |Text        |Text        |Text        |Text        |
@@ -24,7 +25,6 @@ See in the link the official and updated list of [certified systems and peripher
 | NEAT            | Text          |Text        |Text        |Text        |Text        |Text        |Text        |Text        |Text        |
 | Microsoft       | ❌           |❌          |❌          |❌         |❌         |❌          |❌          |❌         |✅         |
 | Nureva          | Text          |Text        |Text        |Text        |Text        |Text        |Text        |Text        |Text        |
-| Poly-HP         | ✅          |✅        |Text        |Text        |Text        |Text        |Text        |Text        |Text        |
 | Q-SYS           | Text          |Text        |Text        |Text        |Text        |Text        |Text        |Text        |Text        |
 | SHURE           | Text          |Text        |Text        |Text        |Text        |Text        |Text        |Text        |Text        |
 | Vaddio          | Text          |Text        |Text        |Text        |Text        |Text        |Text        |Text        |Text        |
