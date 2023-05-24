@@ -35,3 +35,6 @@ Duration Unit: `Days`
 ![Partner Center - Commercial Marketplace](./../images/publishing/step7_listing3.png "Listing details #3")
 
 `Save Draft` before moving on to the next page.
+
+The next step that you will need to take is to [define your Pricing and Availability](pricingavailability.md)
+

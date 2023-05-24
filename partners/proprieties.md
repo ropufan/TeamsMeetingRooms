@@ -10,3 +10,5 @@ This is also the place in which we will select the `Assessment` type of the offe
 ![Partner Center - Commercial Marketplace](./../images/publishing/step4_prop.png "")
 
 Don't forget to hit `Save Draft` before moving on to the next page.
+
+The next step that you will need to take is to [define the page with the offer listing](offerlisting.md)

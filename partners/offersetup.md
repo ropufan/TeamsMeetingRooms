@@ -11,3 +11,5 @@ After you select the `HTTPS Endpoint` and insert the URL of your endpoint, you w
 If the validation is successful, go ahead and hit `Connect` on the form and then `Save Draft` on the initial offering, before moving on to the next page.
 
 ![Partner Center - Commercial Marketplace](./../images/publishing/step3_crm.png "Select CRM destination")
+
+The next step that you will need to take is [setting up the proprieties](proprieties.md)

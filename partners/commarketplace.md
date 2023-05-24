@@ -23,7 +23,7 @@ Partners' consulting services in collaboration with Microsoft offer expert guida
 > Each published offering will need to belong to one of these categories, and the category should be included in the name of the offering.  
 > This is an important aspect to decide upon, when starting to sketch a new Consulting Services offering.
 
-## Context & assumptions
+## Example: Context & assumptions
 
 For the purpose of this guide, we will start with the following assumptions:
 
@@ -42,11 +42,11 @@ For the purpose of this guide, we will start with the following assumptions:
 The steps that need to be followed in order to publish a Consulting Service are:
 
 1. Create a new offer through the `+ New offer` button
-2. Establish [CRM setup](offersetup.md)
-3. Define the [Offering Proprieties](proprieties.md)
-4. Create the page with [the offer listing](offerlisting.md)
-5. Define your [Pricing and Availability](pricingavailability.md)
-6. Give [Publishing](publish.md) a go!
+2. [Establish CRM setup](offersetup.md)
+3. [Define the Offering Proprieties](proprieties.md)
+4. [Create the page with the offer listing](offerlisting.md)
+5. [Define your Pricing and Availability](pricingavailability.md)
+6. [Give Publishing a go](publish.md)!
 
 ### Extra resources
 

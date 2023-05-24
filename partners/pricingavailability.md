@@ -7,3 +7,5 @@
 ![Partner Center - Commercial Marketplace](./../images/publishing/step10_pricing2.png "Multiple pricing")
 
 `Save Draft` before moving on to the next page.
+
+The next step that you will need to take is to [publish your offer](publish.md)
