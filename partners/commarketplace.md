@@ -44,8 +44,8 @@ Throrughout the example, the fields that will be highlighted with purple will be
 
 The steps that need to be followed in order to publish a Consulting Service are:
 
-1. Create a new offer through the `+ New offer` button, of type `Consulting Services`
-2. [Establish CRM setup](offersetup.md)
+1. [Create a new offering](newoffering.md)
+2. [Establish the CRM setup](offersetup.md)
 3. [Define the Offering Proprieties](proprieties.md)
 4. [Create the page with the offer listing](offerlisting.md)
 5. [Define your Pricing and Availability](pricingavailability.md)

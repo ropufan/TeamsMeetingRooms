@@ -10,3 +10,8 @@ We will start creating a new offer by clicking on the `+ New offer` button and s
 Offer ID: `tmr_1day_assessment`
 Offer Alias: `Teams Meeting Rooms: 1-day Assessment`
 ```
+
+## Next Steps
+
+The next step that you will need to take is to enter the offering and [establish the CRM setup](offersetup.md)
+
