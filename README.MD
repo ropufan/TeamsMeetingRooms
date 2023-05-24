@@ -13,7 +13,7 @@ As you navigate through this repository, you'll find detailed chapters designed 
 3. [Teams Meeting Rooms Solution Overview]()
 4. [Teams Meeting Rooms Hardware & Vendors]()
 5. [How to license Teams Meeting Rooms ]()
-6. [How to publish an offer on the Microsoft Commercial Marketplace](./partners/publish.md)
+6. [How to publish an offer on the Microsoft Commercial Marketplace](./partners/commarketplace.md)
 
 ## Stay up to date
 
