@@ -8,16 +8,16 @@ This repository is a collection of thoughtfully curated resources, providing you
 
 We understand the importance of having access to accurate, up-to-date information that caters to both customers and partners. And that's one of the reasons why we've meticulously structured this repository to cover a wide range of topics, including hardware vendors, licensing options, prerequisites, readiness, and more.
 
-As you navigate through this repository, you'll find detailed chapters designed to address various aspects of Teams Meeting Rooms, ensuring a comprehensive understanding of the technology and its potential impact on your organization. If you want to directly contribute to the repo, please check out the [Contribution Guidelines](./contribution/guidelines.md) and the [GitHub Contributor Guide](./contribution/guide.md) -- because everyone can and is welcome to contribute to the repo!
+As you navigate through this repository, you'll find detailed chapters designed to address various aspects of Teams Meeting Rooms, ensuring a comprehensive understanding of the technology and its potential impact on your organization.
 
 ## Table of Contents
 
 1. [The Hybrid World & Context]()
-2. [The Microsoft 365 Ecosystem & Teams]()
-3. [Teams Meeting Rooms Solution Overview]()
-4. [Teams Meeting Rooms Hardware & Vendors]()
-5. [How to license Teams Meeting Rooms ]()
-6. [How to publish an offer on the Microsoft Commercial Marketplace](./partners/commarketplace.md)
+2. [Teams Meeting Rooms Solution Overview]()
+3. [Hardware and Vendors for Teams Meeting Rooms]()
+4. [Licensing Teams Meeting Rooms ]()
+5. [Learn more about Teams Meeting Rooms]()
+6. [Publish an offer on the Microsoft Commercial Marketplace](./partners/commarketplace.md)
 
 ## Stay up to date
 
