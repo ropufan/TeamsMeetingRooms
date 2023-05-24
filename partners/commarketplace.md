@@ -54,4 +54,4 @@ The steps that need to be followed in order to publish a Consulting Service are:
 ### Extra resources
 
 - [Consulting Services documentation](https://learn.microsoft.com/en-us/partner-center/marketplace/plan-consulting-service-offer)
-- [Pricing](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-geo-availability-currencies)
+- [Multiple Pricing](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-geo-availability-currencies)
