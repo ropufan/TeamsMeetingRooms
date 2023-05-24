@@ -27,7 +27,7 @@ Intuitive touch interface lets you access Teams meetings features with ease. Its
 - **Poly Focus Room Kit** (Poly Studio P15, Poly GC8) [🔗](https://www.poly.com/us/en/solutions/platform/microsoft/video/teams-rooms-windows)
 - **HP Mini Conferencing PC** with Microsoft Teams Rooms
 
-![Focus](./../images/vendors/poly/focusw.png "Focus")
+![Focus](./../images/vendors/poly/focusW.png "Focus")
 
 ## Small Room
 
