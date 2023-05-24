@@ -1,6 +1,15 @@
-# Commercial Marketplace > Consulting Services
+# Commercial Marketplace
+
+Microsoft's commercial marketplace is a vibrant platform that empowers partners to showcase and sell their innovative solutions worldwide. It connects partners with millions of customers, from enterprises to small businesses and government organizations. With a wide range of categories, partners can tap into Microsoft's ecosystem and integrate with popular products like Azure and Office 365. Joining the marketplace provides access to marketing support, technical guidance, and analytics, helping partners scale their businesses and make a meaningful impact.
+
+> **Note**
+> If your Partner Center account is not enrolled in the Commercial Marketplace program, [read this documentation](https://learn.microsoft.com/en-us/partner-center/marketplace/create-account).
 
 To begin, you will navigate to the [Partner Center](https://partner.microsoft.com/en-us/dashboard/home), more specifically the [Commercial Marketplace](https://partner.microsoft.com/en-us/dashboard/commercial-marketplace/overview) section. Within this module of Partner Center, you gain access to essential features for creating and managing your offerings intended for publication on the Microsoft Commercial Marketplace. There are [multiple types of offerings](https://learn.microsoft.com/en-us/partner-center/marketplace/determine-your-listing-type) that you can publish on the Microsoft Commercial Marketplace, and each has its settings and lifecycle.
+
+## Consulting Services
+
+Partners' consulting services in collaboration with Microsoft offer expert guidance for businesses embarking on digital transformation. With deep industry knowledge and technical expertise, these partners provide tailored solutions to enhance operational efficiency, productivity, and unlock new opportunities. From strategy development to implementation and optimization, partners work closely with organizations to navigate complexities and drive long-term success in the ever-evolving business landscape. Together with Microsoft's resources and technologies, these consulting services empower businesses to achieve their digital transformation goals effectively.
 
 **Consulting Services** themselves are of 5 types:
 
@@ -10,8 +19,9 @@ To begin, you will navigate to the [Partner Center](https://partner.microsoft.co
 - **Proof of concept**: A limited-scope implementation to determine whether a solution meets the customer's requirements.
 - **Workshop**: An interactive engagement conducted on the customer's premises. It can involve training, briefings, assessments, or demos built on the customer's data or environment.
 
-> **Warning**
-> Each published offering will need to belong to one of these categories, and the category should be included in the name of the offering.
+> **Warning**  
+> Each published offering will need to belong to one of these categories, and the category should be included in the name of the offering.  
+> This is an important aspect to decide upon, when starting to sketch a new Consulting Services offering.
 
 ## Context & assumptions
 
@@ -27,96 +37,16 @@ For the purpose of this guide, we will start with the following assumptions:
 - we do not have a CRM system
 - we have access to an Azure subscription
 
-## Step 1: Creating a new offer
+## Example: How to publish a Consulting Service
 
-We will start creating a new offer by clicking on the `+ New offer` button and selecting `Consulting Services`. A panel will show from the right side, and you will need to complete the fields that will be displayed. Please note that the `Offer ID` and `Offer Alias` defined here will be used internally in Partner Center and will not be visible to customers - it is recommended to use a naming convention that will help you identify the offer later on.
+The steps that need to be followed in order to publish a Consulting Service are:
 
-![Partner Center - Commercial Marketplace](./../images/publishing/step1_pc.png "Creating a new offer")
-
-```markdown
-# Example values from above screenshot
-
-Offer ID: `tmr_1day_assessment`
-Offer Alias: `Teams Meeting Rooms: 1-day Assessment`
-```
-
-## Step 2: Offer Setup
-
-The first thing that you will need to configure after creating a `+ New Offer` is to configure where the leads that come from the respective offering will go. For this, you have [multiple options available](https://learn.microsoft.com/en-us/partner-center/marketplace/create-consulting-service-offer#configure-lead-management) as destinations. Given the context & assumptions, we will be using the [`HTTPS Endpoint`](https://learn.microsoft.com/en-us/partner-center/marketplace/partner-center-portal/commercial-marketplace-lead-management-instructions-https) destination.
-
-![Partner Center - Commercial Marketplace](./../images/publishing/step2_crm.png "Select CRM destination")
-
-> **Warning**
-> If you do not have an HTTPS endpoint, please see [this section](./azure_webook.md) on how to easily create one using Azure.
-
-After you select the `HTTPS Endpoint` and insert the URL of your endpoint, you will need to `Validate` the endpoint.  
-If the validation is successful, go ahead and hit `Connect` on the form and then `Save Draft` on the initial offering, before moving on to the next page.
-
-![Partner Center - Commercial Marketplace](./../images/publishing/step3_crm.png "Select CRM destination")
-
-## Step 3: Proprieties
-
-In the next page we will configure the Primary Product associated to our offering as being `Microsoft 365`.  
-We will also select the Solution Area that correspond to our offering offering as being `Meeting Rooms for Microsoft Teams`.
-
-Note: if multiple Solution Areas correspond to your offering, you can select them up to a maximum of 3.
-
-This is also the place in which we will select the `Assessment` type of the offering.
-
-![Partner Center - Commercial Marketplace](./../images/publishing/step4_prop.png "")
-
-Don't forget to hit `Save Draft` before moving on to the next page.
-
-## Step 4: Offer listing
-
-The Offer Listing is the biggest part of the publishing process, and it is the one that will be visible to customers.
-
-You will need to define the following:
-
-- Name -- Offering Title that will be visible to customers
-- Summary -- short description, to be shown through Search page
-- Description -- long description, to be shown on the offer page
-- Search Keywords -- to be used for search indexing
-- Duration -- how long does it take you to deliver the service?
-- Primary Contact, including email and phone number
-- Secondary Contact, including email and phone number
-- a service presentation in PDF format
-- a PNG logo with 256x256px resolution
-- a PNG offering image with 1280x720px resolution
-
-> **Warning**  
-> The name should follow a convention: `Title: Type of Service: Duration`  
-> Example: `Teams Meeting Rooms: 1-day Assessment`
-
-![Partner Center - Commercial Marketplace](./../images/publishing/listing1.png "Listing details #1")
-
-![Partner Center - Commercial Marketplace](./../images/publishing/step6_listing2.png "Listing details #2")
-
-![Partner Center - Commercial Marketplace](./../images/publishing/step7_listing3.png "Listing details #3")
-
-`Save Draft` before moving on to the next page.
-
-## Step 5: Pricing and availability
-
-![Partner Center - Commercial Marketplace](./../images/publishing/step8_countries.png "Availability")
-
-![Partner Center - Commercial Marketplace](./../images/publishing/step9_pricing1.png "One pricing")
-
-![Partner Center - Commercial Marketplace](./../images/publishing/step10_pricing2.png "Multiple pricing")
-
-`Save Draft` before moving on to the next page.
-
-## Step 6: Publishing
-
-![Partner Center - Commercial Marketplace](./../images/publishing/step11_publish.png "Go to publishing")
-
-![Partner Center - Commercial Marketplace](./../images/publishing/step12_publish.png "Publishing")
-
-`Save Draft` before moving on to the next page.
-
-## Step 7: Co-sell with Microsoft
-
-## Post Publishing
+1. Create a new offer through the `+ New offer` button
+2. Establish [CRM setup](offersetup.md)
+3. Define the [Offering Proprieties](proprieties.md)
+4. Create the page with [the offer listing](offerlisting.md)
+5. Define your [Pricing and Availability](pricingavailability.md)
+6. Give [Publishing](publish.md) a go!
 
 ### Extra resources
 
