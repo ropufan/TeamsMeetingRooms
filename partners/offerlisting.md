@@ -43,7 +43,7 @@ Things to look out for here:
 - the required resolutions need to be matched
 - the required PNG format needs to be matched
 
-Don't forget to `Save Draft` before moving on to the next page.
+## Next Steps
 
+Don't forget to hit `Save Draft` before moving on to the next page.  
 The next step that you will need to take is to [define your Pricing and Availability](pricingavailability.md)
-

@@ -32,7 +32,8 @@ For the purpose of this guide, we will start with the following assumptions:
 - the service is of type `Assessment`
 - the technology that we focus on is `Teams Meeting Rooms`
 - delivering this service to a Customer would take us `1 day`
-- we want to publish this service in `Romania`, `Poland` and `Hungary`
+- we want to publish this service for the following `Countries`: `Romania`, `Poland` and `Hungary`
+- we want to be `paid` with a value depending on the `Country`
 - we want differentiated pricing for each country
 - we do not have a CRM system
 - we have access to an Azure subscription
@@ -43,8 +44,8 @@ Throrughout the example, the fields that will be highlighted with purple will be
 
 The steps that need to be followed in order to publish a Consulting Service are:
 
-1. Create a new offer through the `+ New offer` button, of type `Consulting Services`
-2. [Establish CRM setup](offersetup.md)
+1. [Create a new offering](newoffering.md)
+2. [Establish the CRM setup](offersetup.md)
 3. [Define the Offering Proprieties](proprieties.md)
 4. [Create the page with the offer listing](offerlisting.md)
 5. [Define your Pricing and Availability](pricingavailability.md)
@@ -53,4 +54,4 @@ The steps that need to be followed in order to publish a Consulting Service are:
 ### Extra resources
 
 - [Consulting Services documentation](https://learn.microsoft.com/en-us/partner-center/marketplace/plan-consulting-service-offer)
-- [Pricing](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-geo-availability-currencies)
+- [Multiple Pricing](https://learn.microsoft.com/en-us/partner-center/marketplace/marketplace-geo-availability-currencies)
