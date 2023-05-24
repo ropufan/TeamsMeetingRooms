@@ -84,7 +84,7 @@ You will need to define the following:
 - a PNG logo with 256x256px resolution
 - a PNG offering image with 1280x720px resolution
 
-> **Warning**
+> **Warning**  
 > The name should follow a convention: `Title: Type of Service: Duration`  
 > Example: `Teams Meeting Rooms: 1-day Assessment`
 
