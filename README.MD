@@ -14,7 +14,7 @@ As you navigate through this repository, you'll find detailed chapters designed 
 
 1. [The Hybrid World & Context]()
 2. [Teams Meeting Rooms Solution Overview]()
-3. [Hardware and Vendors for Teams Meeting Rooms]()
+3. [Hardware and Vendors for Teams Meeting Rooms](./hardware/providers.md)
 4. [Licensing Teams Meeting Rooms ]()
 5. [Learn more about Teams Meeting Rooms]()
 6. [Publish an offer on the Microsoft Commercial Marketplace](./partners/commarketplace.md)
