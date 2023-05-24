@@ -23,8 +23,8 @@ In this section you will need to define the following:
 # Example values from above screenshot
 
 Name: `Teams Meeting Rooms: 1-day Assessment`
-Summary: `A comprehensive evaluation process designed to assess and optimize the setup and utilization of Microsoft Teams Meeting Rooms within an organization`
-Description: `Long and well described description of your service offering`
+Summary: `A comprehensive evaluation process designed to assess and...`
+Description: `Long and well described description of your service offering...`
 Search keywords: `TMR`, `Meeting Rooms`, `Hybrid Meetings`
 Duration Value: `1`
 Duration Unit: `Days`
@@ -32,9 +32,18 @@ Duration Unit: `Days`
 
 ![Partner Center - Commercial Marketplace](./../images/publishing/step6_listing2.png "Listing details #2")
 
+Things to look out for here:
+
+- the file names should not include any spaces
+
 ![Partner Center - Commercial Marketplace](./../images/publishing/step7_listing3.png "Listing details #3")
 
-`Save Draft` before moving on to the next page.
+Things to look out for here:
+
+- the required resolutions need to be matched
+- the required PNG format needs to be matched
+
+Don't forget to `Save Draft` before moving on to the next page.
 
 The next step that you will need to take is to [define your Pricing and Availability](pricingavailability.md)
 

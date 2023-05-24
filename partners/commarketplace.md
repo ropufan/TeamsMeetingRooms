@@ -37,6 +37,8 @@ For the purpose of this guide, we will start with the following assumptions:
 - we do not have a CRM system
 - we have access to an Azure subscription
 
+Throrughout the example, the fields that will be highlighted with purple will be the ones that you will need to fill in with your own values.
+
 ## Example: How to publish a Consulting Service
 
 The steps that need to be followed in order to publish a Consulting Service are:
