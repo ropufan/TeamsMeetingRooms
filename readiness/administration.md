@@ -12,3 +12,4 @@ The importance of readiness is to ensure that the customer is ready to deploy th
 
 
 
+https://www.youtube.com/watch?v=z4N-Z6mT09Q
