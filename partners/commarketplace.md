@@ -32,7 +32,8 @@ For the purpose of this guide, we will start with the following assumptions:
 - the service is of type `Assessment`
 - the technology that we focus on is `Teams Meeting Rooms`
 - delivering this service to a Customer would take us `1 day`
-- we want to publish this service in `Romania`, `Poland` and `Hungary`
+- we want to publish this service for the following `Countries`: `Romania`, `Poland` and `Hungary`
+- we want to be `paid` with a value depending on the `Country`
 - we want differentiated pricing for each country
 - we do not have a CRM system
 - we have access to an Azure subscription
