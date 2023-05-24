@@ -56,41 +56,63 @@ If the validation is successful, go ahead and hit `Connect` on the form and then
 
 ## Step 3: Proprieties
 
+In the next page we will configure the Primary Product associated to our offering as being `Microsoft 365`.  
+We will also select the Solution Area that correspond to our offering offering as being `Meeting Rooms for Microsoft Teams`.
+
+Note: if multiple Solution Areas correspond to your offering, you can select them up to a maximum of 3.
+
+This is also the place in which we will select the `Assessment` type of the offering.
+
 ![Partner Center - Commercial Marketplace](./../images/publishing/step4_prop.png "")
 
-`Save Draft` before moving on to the next page.
+Don't forget to hit `Save Draft` before moving on to the next page.
 
 ## Step 4: Offer listing
 
-![Partner Center - Commercial Marketplace](./../images/publishing/listing1.png "")
+The Offer Listing is the biggest part of the publishing process, and it is the one that will be visible to customers.
 
-![Partner Center - Commercial Marketplace](./../images/publishing/step6_listing2.png "")
+You will need to define the following:
 
-![Partner Center - Commercial Marketplace](./../images/publishing/step7_listing3.png "")
+- Name -- Offering Title that will be visible to customers
+- Summary -- short description, to be shown through Search page
+- Description -- long description, to be shown on the offer page
+- Search Keywords -- to be used for search indexing
+- Duration -- how long does it take you to deliver the service?
+- Primary Contact, including email and phone number
+- Secondary Contact, including email and phone number
+- a service presentation in PDF format
+- a PNG logo with 256x256px resolution
+- a PNG offering image with 1280x720px resolution
 
+> **Warning**
+> The name should follow a convention: `Title: Type of Service: Duration`  
+> Example: `Teams Meeting Rooms: 1-day Assessment`
+
+![Partner Center - Commercial Marketplace](./../images/publishing/listing1.png "Listing details #1")
+
+![Partner Center - Commercial Marketplace](./../images/publishing/step6_listing2.png "Listing details #2")
+
+![Partner Center - Commercial Marketplace](./../images/publishing/step7_listing3.png "Listing details #3")
 
 `Save Draft` before moving on to the next page.
-
 
 ## Step 5: Pricing and availability
 
-![Partner Center - Commercial Marketplace](./../images/publishing/step8_countries.png "Countries")
+![Partner Center - Commercial Marketplace](./../images/publishing/step8_countries.png "Availability")
 
-![Partner Center - Commercial Marketplace](./../images/publishing/step9_pricing1.png "")
+![Partner Center - Commercial Marketplace](./../images/publishing/step9_pricing1.png "One pricing")
 
-![Partner Center - Commercial Marketplace](./../images/publishing/step10_pricing2.png "")
+![Partner Center - Commercial Marketplace](./../images/publishing/step10_pricing2.png "Multiple pricing")
 
 `Save Draft` before moving on to the next page.
-
 
 ## Step 6: Publishing
 
-![Partner Center - Commercial Marketplace](./../images/publishing/step11_publish.png "")
+![Partner Center - Commercial Marketplace](./../images/publishing/step11_publish.png "Go to publishing")
 
-![Partner Center - Commercial Marketplace](./../images/publishing/step12_publish.png "Countries")
+![Partner Center - Commercial Marketplace](./../images/publishing/step12_publish.png "Publishing")
 
 `Save Draft` before moving on to the next page.
-
 
 ## Step 7: Co-sell with Microsoft
 
