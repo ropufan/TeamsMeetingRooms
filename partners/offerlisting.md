@@ -46,4 +46,3 @@ Things to look out for here:
 Don't forget to `Save Draft` before moving on to the next page.
 
 The next step that you will need to take is to [define your Pricing and Availability](pricingavailability.md)
-
