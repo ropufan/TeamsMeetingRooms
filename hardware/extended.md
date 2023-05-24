@@ -1,2 +1,0 @@
-Shure
-Nureva

@@ -10,10 +10,13 @@
 ## Robert
 
 - Create page with details of standard deployment types (small/medium/large/custom)
-- Create page for each vendor with examples per room - poly first
-- Update software page with:
-  - comparison android vs windows
-- Update licensing with 1st of July Enforcement - pus cu warning
+- Create page for each vendor with examples per room - poly first DONE
+    - Yealink
+    - Logitech
+    - Lenovo
+    - Jabra
+    - Audiocodes
+
 - Update `readiness-usage` with training materials
   - Microsoft Learn modules
   - Certification path MS-721
@@ -25,3 +28,5 @@
 - How to do a room implementation?
 - Post-sales services opportunities
 - Microsoft Teams Rooms Pro Portal
+- Pagini cu promotii speciale de vendori
+- Pagina cu roadmap features
