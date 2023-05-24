@@ -1,0 +1,13 @@
+# Step 5: Pricing and availability
+
+The first thing which is to be defined here is where do you want your offering to be visible?
+
+![Partner Center - Commercial Marketplace](./../images/publishing/step8_countries.png "Availability")
+
+![Partner Center - Commercial Marketplace](./../images/publishing/step9_pricing1.png "One pricing")
+
+![Partner Center - Commercial Marketplace](./../images/publishing/step10_pricing2.png "Multiple pricing")
+
+`Save Draft` before moving on to the next page.
+
+The next step that you will need to take is to [publish your offer](publish.md)
