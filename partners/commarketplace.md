@@ -20,7 +20,7 @@ Partners' consulting services in collaboration with Microsoft offer expert guida
 - **Workshop**: An interactive engagement conducted on the customer's premises. It can involve training, briefings, assessments, or demos built on the customer's data or environment.
 
 > **Warning**  
-> Each published offering will need to belong to one of these categories, and the category should be included in the name of the offering.  
+> Each published offering will need to belong to one of these categories, and should be included in the name of the offering.  
 > This is an important aspect to decide upon, when starting to sketch a new Consulting Services offering.
 
 ## Example: Context & assumptions

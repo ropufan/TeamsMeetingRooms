@@ -1,5 +1,9 @@
 # Teams Meeting Rooms Partner Repository
 
+<p align="center">
+  <img src="./images/repobanner.png" alt="" />
+</p>
+
 This repository is a collection of thoughtfully curated resources, providing you with a wealth of information about Microsoft Teams Meeting Rooms solutions, empowering you to make well-informed decisions on selecting, implementing, and managing the technology to optimize your customers' communication and collaboration experiences!
 
 We understand the importance of having access to accurate, up-to-date information that caters to both customers and partners. And that's one of the reasons why we've meticulously structured this repository to cover a wide range of topics, including hardware vendors, licensing options, prerequisites, readiness, and more.
