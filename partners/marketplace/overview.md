@@ -13,11 +13,11 @@ Partners' consulting services in collaboration with Microsoft offer expert guida
 
 The **Consulting Services** category encompasses five types:
 
-**Assessment**: An evaluation of a customer's environment to determine the applicability of a solution and estimate the cost and timeline of its implementation.
-**Briefing**: An introduction to a solution or service using frameworks, demos, and customer examples.
-**Implementation**: A complete installation that results in a fully working solution.
-**Proof of Concept**: A limited-scope implementation to determine whether a solution meets the customer's requirements.
-**Workshop**: An interactive engagement conducted on the customer's premises. It can involve training, briefings, assessments, or demos built on the customer's data or environment.
+- **Assessment**: An evaluation of a customer's environment to determine the applicability of a solution and estimate the cost and timeline of its implementation.  
+- **Briefing**: An introduction to a solution or service using frameworks, demos, and customer examples.  
+- **Implementation**: A complete installation that results in a fully working solution.  
+- **Proof of Concept**: A limited-scope implementation to determine whether a solution meets the customer's requirements.  
+- **Workshop**: An interactive engagement conducted on the customer's premises. It can involve training, briefings, assessments, or demos built on the customer's data or environment.  
 
 > **Warning** Each published offering must belong to one of these categories and should be included in the offering's name.  
 > This is a crucial aspect to consider when creating a new Consulting Services offering.
