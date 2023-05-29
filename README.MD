@@ -17,7 +17,7 @@ As you navigate through this repository, you'll find detailed chapters designed 
 3. [Hardware and Vendors for Teams Meeting Rooms](./hardware/providers.md)
 4. [Licensing Teams Meeting Rooms ]()
 5. [Learn more about Teams Meeting Rooms]()
-6. [Publish an offer on the Microsoft Commercial Marketplace](./partners/commarketplace.md)
+6. [Publish an offer on the Microsoft Commercial Marketplace](./partners/marketplace/overview.md)
 
 ## Stay up to date
 
