@@ -37,18 +37,18 @@ For the purpose of this guide, we will start with the following assumptions:
 - We do not have a CRM system
 - We have access to an Azure subscription
 
-Throrughout the example, the fields that will be highlighted with purple will be the ones that you will need to fill in with your own values.
+Throughout the example, the fields that will be highlighted with purple will be the ones that you will need to fill in with your own values.
 
 ## Guide: How to publish a Consulting Service
 
 The steps that need to be followed in order to publish a Consulting Service are:
 
-1. [Create a new offering](newoffering.md)
-2. [Establish the CRM setup](offersetup.md)
-3. [Define the Offering Proprieties](proprieties.md)
-4. [Create the page with the offer listing](offerlisting.md)
-5. [Define your Pricing and Availability](pricingavailability.md)
-6. [Give Publishing a go!](publish.md)
+1. [Create a new offering](./consultingServices/newoffering.md)
+2. [Establish the CRM setup](./consultingServices/offersetup.md)
+3. [Define the Offering Proprieties](./consultingServices/proprieties.md)
+4. [Create the page with the offer listing](./consultingServices/offerlisting.md)
+5. [Define your Pricing and Availability](./consultingServices/pricingavailability.md)
+6. [Give Publishing a go!](./consultingServices/publish.md)
 
 ## Extra resources
 
