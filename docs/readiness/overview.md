@@ -24,7 +24,7 @@ The importance of readiness is to ensure that the solution is planned, designed,
 1. Beginner: Exam MS-900: Microsoft 365 Fundamentals [🔗](https://learn.microsoft.com/en-us/certifications/exams/ms-900/)
 2. Advanced: Exam MS-700: Managing Microsoft Teams [🔗](https://learn.microsoft.com/en-us/certifications/exams/ms-700/)
 3. Expert: Exam MS-721: Collaboration Communications Systems Engineer [🔗](https://learn.microsoft.com/en-us/certifications/exams/ms-721/)
-4. Expert Zone Exam [🔗](https://expertzone.microsoft.com/mission/learningProgram:45452)
+4. ExpertZone Exam [🔗](https://expertzone.microsoft.com/mission/learningProgram:45452)
 
 ## Extras
 
