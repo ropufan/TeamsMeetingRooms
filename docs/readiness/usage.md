@@ -1,6 +1,7 @@
 # Microsoft Teams Rooms Official Documentation
 
-[Overview](https://learn.microsoft.com/en-us/microsoftteams/rooms/)
+1. Overview | Microsoft Learn [🔗](https://learn.microsoft.com/en-us/microsoftteams/rooms/)
+2. Teams Meeting Rooms | YouTube Playlist [🔗](https://www.youtube.com/playlist?list=PLD3boy6eO4w-9pDVGlUnCowH5pFrz5njR)
 
 ## Microsoft Teams Rooms Related Certifications
 

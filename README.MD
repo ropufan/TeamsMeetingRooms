@@ -1,7 +1,7 @@
 # Teams Meeting Rooms Partner Repository
 
 <p align="center">
-  <img src="./images/repobanner.png" alt="" />
+  <img src="./docs/images/repobanner.png" alt="" />
 </p>
 
 This repository is a collection of thoughtfully curated resources, providing you with a wealth of information about Microsoft Teams Meeting Rooms solutions, empowering you to make well-informed decisions on selecting, implementing, and managing the technology to optimize your customers' communication and collaboration experiences!
@@ -14,10 +14,10 @@ As you navigate through this repository, you'll find detailed chapters designed 
 
 1. [The Hybrid World & Context]()
 2. [Teams Meeting Rooms Solution Overview]()
-3. [Hardware and Vendors for Teams Meeting Rooms](./hardware/providers.md)
+3. [Hardware and Vendors for Teams Meeting Rooms](./docs/hardware/providers.md)
 4. [Licensing Teams Meeting Rooms ]()
 5. [Learn more about Teams Meeting Rooms]()
-6. [Publish an offer on the Microsoft Commercial Marketplace](./partners/marketplace/overview.md)
+6. [Publish an offer on the Microsoft Commercial Marketplace](./docs/partners/marketplace/overview.md)
 
 ## Stay up to date
 
