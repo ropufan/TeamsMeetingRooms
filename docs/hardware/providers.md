@@ -7,7 +7,7 @@ See in the link the official and updated list of [certified systems and peripher
 
 | Vendor          | Compute Windows | Compute Android | Consoles | Cameras | Content Cameras | Intelligent Cameras | Microphones | Speakers | Touchscreen Large Board
 | :-------------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| [Poly-HP](./Poly-HP.md)         | ✅          |✅        |✅       |✅        |❌        |✅        |✅        |✅        |❌        |
+| [Poly-HP](./vendors/Poly-HP.md)         | ✅          |✅        |✅       |✅        |❌        |✅        |✅        |✅        |❌        |
 | Microsoft       | ✅           |❌          |❌          |❌         |❌         |❌          |❌          |❌         |✅         |
 
 Dictionary:
