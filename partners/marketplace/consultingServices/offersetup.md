@@ -14,7 +14,7 @@ If the validation is successful, go ahead and hit `Connect` on the form.
 ![Webhook Configuration](./../../../images/publishing/step3_crm.png "")
 
 > **Info**
-> If you do not have an HTTPS endpoint, please see [this section](./azure_webook.md) to find out how to easily create one using Azure.
+> If you do not have an HTTPS endpoint, please see [this section](./../../webhooks/azure_webook.md) to find out how to easily create one using Azure.
 
 If you have done all the steps correctly, you should have received a Sample Lead through the configured Endpoint, and the platform should confirm that the connection was configured successfully.
 
