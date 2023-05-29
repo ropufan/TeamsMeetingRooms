@@ -1,93 +1,139 @@
 # Configuring an HTTPS Webhook in Azure
 
-The Microsoft Commercial Marketplace allows you to configure a Webhook to receive leads from your offering. But receiving them is not enough, as you will need to do something with them. In this section, we will show you how to create a simple webhook that will send you an email whenever a new lead is received!
+This documentation provides a step-by-step guide on how to configure an HTTPS webhook using **Azure Logic Apps**. By following these instructions, you will be able to create a webhook that sends you an email whenever a new lead is received from the Microsoft Commercial Marketplace.
 
-A cheap, simple, fast and easy way of creating a Webhook is by using **Azure Logic Apps**, which has a `Consumption Plan` billing model. This means that you will only pay for the resources that you use, and you will not be charged when the Logic App is not being triggered. At the moment of writing this, each `Consumption Plan` comes with the first 4000 actions for free. The updated pricing details can be checked out [here](https://azure.microsoft.com/en-us/pricing/details/logic-apps/).
+**Azure Logic Apps** has a `Consumption Plan` billing model. This means that you will only pay for the resources that you use, and you will not be charged when the Logic App is not being triggered. At the moment of writing this, each `Consumption Plan` comes with the first 4000 actions for free. The updated pricing details can be checked out [here](https://azure.microsoft.com/en-us/pricing/details/logic-apps/).
 
-## ...but what is a Webhook?
+## Introduction to Webhooks
 
-Imagine you have a special mailbox at home that can magically send you a message whenever something important happens outside your house. Let's say you're waiting for your friend to visit. Instead of constantly looking out the window, you can ask your mailbox to notify you when your friend arrives. When your friend rings the doorbell, the mailbox sends you a message right away, so you know your friend is here without having to keep watching. Webhooks work kind of like that magical mailbox for websites and apps. They help them communicate and send each other messages automatically when certain events happen, like a new message on social media or someone buying something in an online store. Or even a lead from the Commercial Marketplace! It saves time and lets different parts of the internet talk to each other easily!
+Webhooks serve as a communication mechanism between websites and applications, enabling them to automatically send messages to each other when specific events occur. It's similar to having a magical mailbox that notifies you whenever something important happens outside your house. For example, webhooks can be used to receive notifications about new social media messages, online store purchases, and even leads from the Commercial Marketplace. They streamline communication and facilitate seamless interaction between different parts of the internet.
 
-## Create Resource Group
+## Prerequisites
 
-The first thing that we will need is to [create a Resource Group](https://portal.azure.com/#create/Microsoft.ResourceGroup). The aspects which you should decide upon are:
+Before you proceed with following the guide, make sure you have the following prerequisites:
 
-- which is the `Azure Subscription` that you will use
-- what is the name of the `Resource Group` that you will be creating
-- what is the `Region` in which this Resource Group will reside
+- An Azure Subscription, with provisioning rights
+- An Office 365 account, with email access
 
-![Create a Resource Group](./../images/logicapp/0-rgcrt.png "")
+## Step-by-step Guide
 
-In our example, we are using a subscription called `NEVER OFFLINE`, a Resource Group called `PartnerCenterLeads` in the region of `North Europe`.
-After completing the form, click on `Review + Create` and then on `Create`. In a few seconds, the Resource Group will be created.
+### Step 1: Create a Resource Group
 
-## Create Logic App
+1. Go to Azure Portal and [create a new Resource Group](https://portal.azure.com/#create/Microsoft.ResourceGroup)
+2. Specify the **Azure Subscription**, **Resource Group name**, and the **Region** where the Resource Group will reside
 
-After creating the `Resource Group` you will need to go to it and create a new `Logic App`.  
-You can do this by clicking on `+ Create` in the top left corner.
+    ![Create a Resource Group](./../images/logicapp/0-rgcrt.png "")
 
-![Create a new resource](./../images/logicapp/1-rg.png "")
+3. Click on **Review + Create** and then **Create** to create the Resource Group
 
-A new window should open up, in which you should search for `Logic App`:
+### Step 2: Create a Logic App
 
-![Search for Logic App](./../images/logicapp/2-lgcapp.png "")
+1. Inside the Resource Group you have created, you will need to [create a Logic App](https://portal.azure.com/#create/Microsoft.LogicApp)
 
-After clicking on `Create`, you will be presented with a form that you will need to fill in.
+2. The **Logic App** resource settings that you will need to make, *in the order of setting up*, are:
 
-The `Logic App` details that you will need to fill in, in the order of setting up, are:
+   - **Plan Type**, which is the model of deployment (recommended: `Consumption`)
+   - the `Azure Subscription` that you will use
+   - the `Resource Group` in which this `Logic App` will reside
+   - the `Name` of the `Logic App` that you will be creating
+   - the `Region` in which this `Logic App` will reside
+   - if you want to enable `Log Analytics` (optional)
 
-- Plan Type, which is the model of deployment (recommended: `Consumption`)
-- which is the `Azure Subscription` that you will use
-- which is the `Resource Group` in which this `Logic App` will reside
-- what is the `Name` of the `Logic App` that you will be creating
-- what is the `Region` in which this `Logic App` will reside
-- if you want to enable `Log Analytics` (optional)
+    ![Create a new Logic App](./../images/logicapp/3-lgcappsetup.png "")
 
-![Create a new Logic App](./../images/logicapp/3-lgcappsetup.png "")
+3. Click on "Review + Create" and then "Create" to create the Logic App.
 
-After completing the form, click on `Review + Create` and then on `Create`. In about a minute, the Logic App will be created!
+### Step 3: Go to Logic App Designer and configure the trigger
 
-## Go to Logic App Designer and configure the trigger
+1. After creating the Logic App, go to the Logic App Designer
+2. Select "When an HTTP request is received" as the trigger for the Logic App
 
-![Go to Logic App Designer & Create a new HTTP request Logic App](./../images/logicapp/4-lgcappnew.png "")
-![Use a Sample payload to generate the schema](./../images/logicapp/5-lgcappsample.png "")
-![The sample payload should look like this](./../images/logicapp/6-payloadsample.png "")
+    ![Go to Logic App Designer & Create a new HTTP request Logic App](./../images/logicapp/4-lgcappnew.png "")
 
-## Connect to Outlook from Office 365
+3. Select the *Use a sample payload to generate the schema* option
 
-![Add a new step to the Logic App](./../images/logicapp/7-newstep.png "")
-![Select Outlook as a LogicApp Connector](./../images/logicapp/8-outlook.png "")
-![Select the correct action - Send Email V2](./../images/logicapp/9-sendemail.png "")
-![Log in with the O365 account](./../images/logicapp/10-login.png "")
+    ![Use a Sample payload to generate the schema](./../images/logicapp/5-lgcappsample.png "")
 
-## Define the Email action
+4. Provide the following example JSON:
+
+    ```json
+    {
+    "UserDetails": {
+        "FirstName": "Some",
+        "LastName": "One",
+        "Email": "someone@contoso.com",
+        "Phone": "16175555555",
+        "Country": "USA",
+        "Company": "Contoso",
+        "Title": "Esquire"
+    },
+    "LeadSource": "AzureMarketplace",
+    "ActionCode": "INS",
+    "OfferTitle": "Test Microsoft",
+    "Description": "Test run through Logic App"
+    }
+    ```
+
+    ![The sample payload should look like this](./../images/logicapp/6-payloadsample.png "")
+
+5. Click on "Done" to generate the Request Body JSON Schema
+6. Verify that the Body JSON was created and add a new step to the Logic App
+
+    ![Add a new step to the Logic App](./../images/logicapp/7-newstep.png "")
+
+### Step 4: Connect to Outlook from Office 365
+
+1. In the new step, select "Outlook" as the connector
+
+    ![Select Outlook as a LogicApp Connector](./../images/logicapp/8-outlook.png "")
+
+2. Search for and select the action "Send an email V2."
+
+    ![Select the correct action - Send Email V2](./../images/logicapp/9-sendemail.png "")
+
+3. Log in with your Office 365 account, which will be used to send the emails
+
+    ![Log in with the O365 account](./../images/logicapp/10-login.png "")
+
+### Step 5: Define the Email action
+
+1. Define the structure of the email to be sent when the webhook is called with a valid query
+2. Customize the "To," "Subject," and "Body" fields according to your preferences. Here's an example:
+
+    Subject:
+
+    ```json
+    New Microsoft Lead: @{triggerBody()?['OfferTitle']} /  @{triggerBody()?['UserDetails']?['Company']}
+    ```
+
+    Body:
+
+    ```json
+    Hello!
+
+    You received a new lead from @{triggerBody()?['UserDetails']?['Company']} from @{triggerBody()?['UserDetails']?['Country']}!
+
+    You should contact the following person:
+    First name:@{triggerBody()?['UserDetails']?['FirstName']}
+    Last name: @{triggerBody()?['UserDetails']?['LastName']}
+    Job Title@{triggerBody()?['UserDetails']?['Title']}
+    Email@{triggerBody()?['UserDetails']?['Email']}
+    Phone Number@{triggerBody()?['UserDetails']?['Phone']}
+
+    Thank you,
+    The Microsoft Commercial Marketplace Automation
+    ```
+
+3. If you paste the above values in the fields, you should get something like this:
 
 ![Configure the email](./../images/logicapp/11-emailbody.png "")
 
-Subject:
+### Step 6: Save & get the Webhook URL
 
-```markdown
-New Microsoft Lead: @{triggerBody()?['OfferTitle']} /  @{triggerBody()?['UserDetails']?['Company']}
-```
+1. Save the Logic App, which will trigger the creation of the Webhook URL
+2. Go to the "When an HTTP request is received" step to find the URL for your configured webhook
+3. Copy the Webhook URL and use it in the **Webhook URL**"** field in the Microsoft Commercial Marketplace Automation form
 
-Body:
+    ![Get the URL for the Webhook](./../images/logicapp/12-url.png "")
 
-```markdown
-Hello!
-
-You just received a new lead from @{triggerBody()?['UserDetails']?['Company']} from @{triggerBody()?['UserDetails']?['Country']}!
-
-You should contact the following person:
-First name:@{triggerBody()?['UserDetails']?['FirstName']}
-Last name: @{triggerBody()?['UserDetails']?['LastName']}
-Job Title@{triggerBody()?['UserDetails']?['Title']}
-Email@{triggerBody()?['UserDetails']?['Email']}
-Phone Number@{triggerBody()?['UserDetails']?['Phone']}
-
-Thank you,
-The Microsoft Commercial Marketplace Automation
-```
-
-## Output
-
-![Get the URL for the Webhook](./../images/logicapp/12-url.png "")
+These steps will guide you through the process of configuring an HTTPS webhook using **Azure Logic Apps**. By implementing this webhook, you will be able to receive email notifications whenever new leads are received from the Microsoft Commercial Marketplace.
