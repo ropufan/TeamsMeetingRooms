@@ -2,21 +2,17 @@
 
 ## Bogdan
 
-- Generic story of publishing with per country contacts
 - Advanced Spec for Meeting Rooms overview
-- Create page for HOW TO work with Partner Center
-- Legal disclaimers defaults
-- automate the HTTPS endpoint creation & logic app
 
 ## Robert
 
 - Create page with details of standard deployment types (small/medium/large/custom)
 - Create page for each vendor with examples per room - poly first DONE
-    - Yealink
-    - Logitech
-    - Lenovo
-    - Jabra
-    - Audiocodes
+  - Yealink
+  - Logitech
+  - Lenovo
+  - Jabra
+  - Audiocodes
 
 - Update `readiness-usage` with training materials
   - Microsoft Learn modules
