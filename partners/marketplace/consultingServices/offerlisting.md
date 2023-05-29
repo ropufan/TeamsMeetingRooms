@@ -17,7 +17,7 @@ In this section you will need to define the following:
 > **Warning** Please check the [Certification Policies](https://learn.microsoft.com/en-us/legal/marketplace/certification-policies) before publishing your offer.
 > The name should follow a convention: `Title: Duration, Type of Service`. Example: `Teams Meeting Rooms: 1-day Assessment`
 
-![Partner Center - Commercial Marketplace](./../../../images/publishingstep5_listing1.png "Listing details #1")
+![Partner Center - Commercial Marketplace](./../../../images/publishing/step5_listing1.png "Listing details #1")
 
 ```markdown
 # Example values from above screenshot
@@ -30,13 +30,13 @@ Duration Value: `1`
 Duration Unit: `Days`
 ```
 
-![Partner Center - Commercial Marketplace](./../../../images/publishingstep6_listing2.png "Listing details #2")
+![Partner Center - Commercial Marketplace](./../../../images/publishing/step6_listing2.png "Listing details #2")
 
 Things to look out for here:
 
 - the file names should not include any spaces
 
-![Partner Center - Commercial Marketplace](./../../../images/publishingstep7_listing3.png "Listing details #3")
+![Partner Center - Commercial Marketplace](./../../../images/publishing/step7_listing3.png "Listing details #3")
 
 Things to look out for here:
 
