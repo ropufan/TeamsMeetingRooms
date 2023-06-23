@@ -5,12 +5,34 @@ Microsoft Teams Meeting Rooms works only on *certified devices*. Certified Micro
 Teams Rooms certified systems and peripherals are provided by various manufacturers.
 See in the link the official and updated list of [certified systems and peripherals](https://learn.microsoft.com/en-us/microsoftteams/rooms/)
 
-| Vendor          | Compute Windows | Compute Android | Consoles | Cameras | Content Cameras | Intelligent Cameras | Microphones | Speakers | Touchscreen Large Board
+| Vendor          | Compute Windows | Compute Android | Consoles | Cameras | Content Cameras | Intelligent Cameras | Microphones | Speakers | Touchscreen Large Board |
 | :-------------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| [Poly-HP](./vendors/Poly-HP.md)         | ✅          |✅        |✅       |✅        |❌        |✅        |✅        |✅        |❌        |
-| Microsoft       | ✅           |❌          |❌          |❌         |❌         |❌          |❌          |❌         |✅         |
+| Poly-HP         | ✅          |✅        |✅       |✅        |❌        |❌        |✅        |✅        |❌        |
+| Audiocodes      | ❌          |✅        |✅       |❌        |❌        |❌        |❌        |❌        |❌        |
+| AVer            | 🤝          |❌        |❌       |✅        |✅        |❌        |✅        |✅        |❌        |
+| BOSE            | ❌          |❌        |❌       |✅        |❌        |❌        |✅        |✅        |❌        |
+| Biamp           | ❌          |❌        |❌       |❌        |❌        |❌        |✅        |✅        |❌        |
+| Cisco           | ❌          |✅        |✅       |✅        |❌        |❌        |❌        |❌        |✅        |
+| Creston         | 🤝          |❌        |✅       |✅        |❌        |❌        |✅        |✅        |❌        |
+| DELL            | ✅          |❌        |❌       |✅        |❌        |❌        |❌        |❌        |❌        |
+| DTEN            | ❌          |✅        |❌       |❌        |❌        |❌        |❌        |❌        |✅        |
+| EPOS            | ❌          |✅        |✅       |✅        |❌        |❌        |❌        |❌        |❌        |
+| Extron          | ❌          |❌        |❌       |❌        |❌        |❌        |❌        |✅        |❌        |
+| Huddly          | ❌          |❌        |❌       |✅        |✅        |❌        |❌        |❌        |❌        |
+| Jabra           | 🤝          |✅        |✅       |✅        |✅        |✅        |❌        |❌        |❌        |
+| Lenovo          | ✅          |❌        |✅       |✅        |❌        |❌        |✅        |✅        |❌        |
+| Logitech        | 🤝          |✅        |✅       |✅        |✅        |❌        |✅        |✅        |❌        |
+| NEAT            | ❌          |✅        |✅       |✅        |✅        |❌        |❌        |❌        |✅        |
+| Microsoft       | ✅          |❌        |❌       |❌        |❌        |❌        |❌        |❌        |✅        |
+| Nureva          | ❌          |❌        |❌       |❌        |❌        |❌        |✅        |✅        |❌        |
+| Q-SYS           | 🤝          |❌        |❌       |✅        |❌        |❌        |✅        |✅        |❌        |
+| SHURE           | ❌          |❌        |❌       |❌        |❌        |❌        |✅        |✅        |❌        |
+| Vaddio          | ❌          |❌        |❌       |✅        |❌        |❌        |❌        |❌        |❌        |
+| Yamaha          | 🤝          |❌        |❌       |❌        |❌        |❌        |✅        |✅        |❌        |
+| Yealink         | ✅          |✅        |✅       |✅        |✅        |❌        |✅        |✅        |✅        |
 
 Dictionary:
+
 - ✅ available
 - 🤝 through partnership
 - ❌ not available
