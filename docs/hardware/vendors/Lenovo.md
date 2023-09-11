@@ -6,8 +6,6 @@ ThinkSmart solutions can help your return to the office to be more collaborative
 
 Lenovo offers dedicated solutions based on Teams Meeting Rooms on Windows.
 
-![Logi Windows Teams Solutions](./../../images/vendors/logi/family-shot-desktop.png "Logi Windows Teams Solutions")
-
 ## Focus Room & Small Room
 
 - **ThinkSmart Hub Gen 2 for Microsoft Teams Rooms** [🔗](https://www.lenovo.com/us/en/p/smart-devices/smart-office/thinksmart/thinksmart-hub-60/11sp1tshb60)
@@ -38,51 +36,44 @@ For the ThinkSmart Hub you can interconnect any compabitle USB Camera. Lenovo re
 
 - **Lenovo ThinkSmart One + Controller for Teams** [🔗](https://www.lenovo.com/us/en/p/coming-soon/thinksmart-one-plus-controller-for-teams/len102e0006)
 
+Meet the ideal solution for seamless & productive meetings.
 
+With Windows-based computing built in, ThinkSmart One is self-contained. This smart bar boasts a high-res camera with an extra-wide field of view and smart features like auto-zoom, auto-frame, people counting, speaker tracking, and whiteboard awareness. Expect sharp contrast, vivid colors, and brighter images even in low-light environments. As for sound, stereo speakers deliver crisp clarity with high-volume capacity and range, while 8 mics with both echo and noise cancellation and 180-degree coverage ensure everyone is heard loud and clear.
+The ThinkSmart Controller is a stunning 10.1″ HD display with 10-point multitouch. It includes the familiar Microsoft Teams interface, with its easy-to use navigation for initiating and controlling meetings, and sharing content. One-touch join function gets your meetings up and running instantly, and thanks to the antiglare and antifingerprint finish, the display is sure to remain smudge-free and looking good.
+
+![Lenovo ThinkSmart One + Controller for Teams](./../../images/vendors/lenovo/TSO.png "Lenovo ThinkSmart One + Controller for Teams")
+
+- The world’s first Windows-based integrated collaboration solution
+- Integrated bar with FHD camera, premium audio, & Windows computing
+- 10.1″ HD controller with one-touch join function
+- Powered by 11th Gen Intel® Core™ processors with vPro®
+- Easy to use, manage, & configure via complimentary ThinkSmart Manager Premium
+- Ideal for small-to-medium sized workspaces
+
+The ThinkSmart One integrated bar includes a wall-mount bracket that enables you to tilt the bar up or down by 10 degrees or leave it level. Simply adjust it to best suit your needs. What’s more, the bracket remains hidden when mounted, providing a clean aesthetic in any meeting room.
 
 ## Large Room
 
-### Android
+- **Lenovo ThinkSmart Core Full Room Kit for Microsoft Teams Rooms** [🔗](https://www.lenovo.com/us/en/p/smart-devices/smart-office/thinksmart/thinksmart-core-full-room-kit-t/len102e0002)
 
-- **Rally Bar + TAP IP** [🔗](https://www.logitech.com/en-us/products/video-conferencing/room-solutions/rallybar.960-001308.html)
+Complete unified communications solution certified for Teams Rooms
 
-All-in-one video bar for medium to large rooms.
-With a dual-camera system and RightSight 2 auto-framing technology, Rally Bar welcomes remote participants to the conversation. Choose Grid View to eliminate empty space and frame each person in their own stream, Speaker View to highlight the active speaker, or Group View to capture everyone in the room. An innovative dual-camera system with optical zoom and an AI Viewfinder delivers fluid, cinematic video in medium and large rooms. ally Bar’s advanced audio engineering delivers powerful, room-filling sound and makes sure every voice is clearly heard. Easily accommodate larger spaces with Rally Mic Pods. Out of the box, Rally Bar has a pickup range up to 23 ft (7 m), which you can significantly extend by adding up to four Mic Pods.
+Add smarter collaboration technology to meeting rooms of all sizes with our ThinkSmart Core Full Room Kit T—a one-stop solution for all of your unified communications needs. Kit includes ThinkSmart Core computing device certified for Microsoft Teams Rooms, Controller display, smart AI-based camera, smart soundbar with mics, Premier Support plan, and premium software for remote manageability, deployment, and more.
 
-![Rally Bar + TAP IP](./../../images/vendors/logi/rally-bar-tap-ip-og-image.png "Rally Bar + TAP IP")
+![Lenovo ThinkSmart Core Full Room Kit for Microsoft Teams Rooms](./../../images/vendors/lenovo/fullroomkit.png "Lenovo ThinkSmart Core Full Room Kit for Microsoft Teams Rooms")
 
-- **Rally PLUS with RoomMate** (Modular solution) [🔗](https://www.poly.com/us/en/solutions/platform/microsoft/video/teams-rooms-windows)
+## More compatible cross-collaborations based on the Lenovo ThinkSmart Core PC
 
-Premier modular video conferencing system for large rooms
-In large rooms with one or two displays, deploy Rally with tremendous flexibility and ease. In large rooms with one or two displays, deploy Rally with tremendous flexibility and ease. Using AI, human perception, and automated PTZ, Rally adapts to meeting dynamics and keeps the camera on the action. Rally’s ultra-low distortion speakers deliver crystal clear, room-filling sound and make sure every voice is clearly heard. Rally’s exquisitely sensitive mic pods ensure that everyone in the meeting is clearly heard.
+### BOSE VideoBar VB1  [🔗](https://www.boseprofessional.com/en_us/products/conferencing/videobars/bose-videobar-vb1.html)
 
-![Rally PLUS with RoomMate](./../../images/vendors/logi/rally-simple-to-setup-1-desktop-v2.png "Rally PLUS with RoomMate")
+Bose Professional Videobar VB1 is an all-in-one USB conferencing device that brings premium audio and video to huddle spaces to medium-sized meeting rooms up to 6 x 6 meters (20 x 20 feet). With six automatic beam-steering microphones, a 4K ultra-HD camera, and signature sound, the Videobar VB1 helps you huddle up and get more done. Works with Microsoft Teams, and connected to a Lenovo ThinkSmart Core PC it can be transformed from a classic BYOD scenario, to a modern Teams Meeting Rooms Solution.
 
+![BOSE VideoBar VB1 + Lenovo ThinkSmart Core + Controller](./../../images/vendors/lenovo/bose.png "BOSE VideoBar VB1 + Lenovo ThinkSmart Core + Controller")
 
-### Windows
+### Jabra Panacast 50  [🔗](https://www.jabra.com/business/for-your-platform/lenovo)
 
-- **Rally PLUS with Intel NUC/Lenovo/DELL Compute** (Modular solution) [🔗](https://www.poly.com/us/en/solutions/platform/microsoft/video/teams-rooms-windows)
+The Jabra PanaCast 50 & Lenovo™ ThinkSmart™ Core solution bring a new level of intuitive and seamless video conferencing collaboration to businesses looking to upgrade meeting rooms.The solution provides an enterprise-ready conferencing solution that is pre-configured for Microsoft Teams.
 
-Premier modular video conferencing system for large rooms
-In large rooms with one or two displays, deploy Rally with tremendous flexibility and ease. In large rooms with one or two displays, deploy Rally with tremendous flexibility and ease. Using AI, human perception, and automated PTZ, Rally adapts to meeting dynamics and keeps the camera on the action. Rally’s ultra-low distortion speakers deliver crystal clear, room-filling sound and make sure every voice is clearly heard. Rally’s exquisitely sensitive mic pods ensure that everyone in the meeting is clearly heard.
+![Jabra Panacast 50 + Lenovo ThinkSmart Core + Controller](./../../images/vendors/lenovo/jabra.png "Jabra Panacast 50 + Lenovo ThinkSmart Core + Controller")
 
-![Rally PLUS with PC](./../../images/vendors/logi/rally-simple-to-setup-2-desktop-v2.png "Rally PLUS with PC")
-
-## More compatible Logi devices
-
-### Logitech Sight  [🔗](https://www.logitech.com/en-us/products/video-conferencing/room-solutions/sight.960-001510.html)
-
-Make Microsoft Teams meetings more inclusive for remote participants with Sight, which adds clearer audio and the best front-facing view of in-room participants.
-Tabletop companion camera with intelligent multi-participant framing. Get the best front-and-center view of the room, from anywhere.
-A new approach combines Sight at the table with the front-of-room video bar to show the best angle of meeting room interactions.
-With Rally Bar at the front of the room, and Sight at the center of the table, you maintain a consistent front-facing view of in-person interactions as the conversation flows between in-room and remote participants.
-
-![Logi Sight with Rally Bar](./../../images/vendors/logi/sight-front-and-center-0423.png "Logi Sight with Rally Bar")
-
-### Logitech Scribe  [🔗](https://www.logitech.com/en-us/products/video-conferencing/room-solutions/scribe.960-001332.html)
-
-Whiteboard camera for video conferencing rooms
-Effortlessly share whiteboards into video meetings with Logitech Scribe, an AI-powered whiteboard camera for Microsoft Teams® Rooms. This solution takes advantage of the "Content from Camera" feature within Microsoft Teams.
-With built-in AI and a custom lens, Scribe broadcasts whiteboard content into video meetings with outstanding clarity. Now, even remote participants can have the best seat at the table. Scribe’s wireless share button makes sharing whiteboards into video meetings quick and easy. You can also initiate sharing with your meeting room touch controller, like Logitech Tap.
-
-![Logitech Scribe](./../../images/vendors/logi/scribe-everyone-on-board-desktop-v2.png "Logitech Scribe")
+[More info on this solution](./../../images/vendors/lenovo/JabraLenovo.pdf)

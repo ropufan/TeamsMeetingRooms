@@ -1,7 +1,7 @@
 # Teams Meeting Rooms Licensing
 
 >**Warning**
->**Get ready for Microsoft Teams Rooms Licensing Policy Enforcement - 1st of July 2023**
+>**Get ready for Microsoft Teams Rooms Licensing Policy Enforcement - 1st of July 2023** [🔗](https://techcommunity.microsoft.com/t5/microsoft-teams-support/staying-compliant-get-ready-for-microsoft-teams-rooms-licensing/ba-p/3776926)
 
 Starting July 1, 2023, customers, including Microsoft Surface Hub users, will no longer be able to apply user subscription licenses to sign-in to their Microsoft Teams Rooms devices.  This change was communicated via in-product messaging and on the Microsoft Teams Rooms licenses page to ensure our customers ample time to prepare for this transition. Customers will need to procure and provision a Teams Rooms license.
 
