@@ -7,12 +7,21 @@ See in the link the official and updated list of [certified systems and peripher
 
 | Vendor          | Compute Windows | Compute Android | Consoles | Cameras | Content Cameras | Intelligent Cameras | Microphones | Speakers | Touchscreen Large Board |
 | :-------------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+<<<<<<< HEAD
 | [Jabra](../hardware/vendors/Jabra.md)          | 🤝          |✅        |✅       |✅        |✅        |✅        |❌        |❌        |❌        |
 | [Lenovo](../hardware/vendors/Lenovo.md)         | ✅          |❌        |✅       |✅        |❌        |❌        |✅        |✅        |❌        |
 | [Logitech](../hardware/vendors/Logitech.md)       | 🤝          |✅        |✅       |✅        |✅        |❌        |✅        |✅        |❌        |
 | [Poly-HP](../hardware/vendors/Poly-HP.md)        | ✅          |✅        |✅       |✅        |❌        |❌        |✅        |✅        |❌        |
 | [Microsoft](../hardware/vendors/Microsoft.md)       | ✅          |❌        |❌       |❌        |❌        |❌        |❌        |❌        |✅        |
 | [Yealink](../hardware/vendors/Yealink.md)         | ✅          |✅        |✅       |✅        |✅        |❌        |✅        |✅        |✅        |
+=======
+| Jabra           | 🤝          |✅        |✅       |✅        |✅        |✅        |❌        |❌        |❌        |
+| Lenovo          | ✅          |❌        |✅       |✅        |❌        |❌        |✅        |✅        |❌        |
+| Logitech        | 🤝          |✅        |✅       |✅        |✅        |❌        |✅        |✅        |❌        |
+| Poly-HP         | ✅          |✅        |✅       |✅        |❌        |❌        |✅        |✅        |❌        |
+| Microsoft       | ✅          |❌        |❌       |❌        |❌        |❌        |❌        |❌        |✅        |
+| Yealink         | ✅          |✅        |✅       |✅        |✅        |❌        |✅        |✅        |✅        |
+>>>>>>> c7918b0783584838bd68be4181f4fc272b9cd02e
 | Audiocodes      | ❌          |✅        |✅       |❌        |❌        |❌        |❌        |❌        |❌        |
 | AVer            | 🤝          |❌        |❌       |✅        |✅        |❌        |✅        |✅        |❌        |
 | BOSE            | ❌          |❌        |❌       |✅        |❌        |❌        |✅        |✅        |❌        |
