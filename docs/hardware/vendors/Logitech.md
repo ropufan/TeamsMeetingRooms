@@ -113,3 +113,5 @@ Effortlessly share whiteboards into video meetings with Logitech Scribe, an AI-p
 With built-in AI and a custom lens, Scribe broadcasts whiteboard content into video meetings with outstanding clarity. Now, even remote participants can have the best seat at the table. Scribe’s wireless share button makes sharing whiteboards into video meetings quick and easy. You can also initiate sharing with your meeting room touch controller, like Logitech Tap.
 
 ![Logitech Scribe](./../../images/vendors/logi/scribe-everyone-on-board-desktop-v2.png "Logitech Scribe")
+
+[**Back to Providers**](./../../hardware/providers.md)

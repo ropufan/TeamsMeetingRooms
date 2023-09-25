@@ -25,3 +25,5 @@ The interconnectivity between a Surface HUB and a dedicated Windows Based Teams 
  We strongly advise that for large rooms, the Surface Hub 2S 85 to be setup in Coordinated Meetings mode together with a dedicated Teams Rooms solution.
   
   ![Microsoft Surface Hub 2S 85](./../../images/vendors/microsoft/surfacehub2s85coordinated.png "Microsoft Surface Hub 2S 85")
+
+  [**Back to Providers**](./../../hardware/providers.md)

@@ -77,3 +77,5 @@ The Jabra PanaCast 50 & Lenovo™ ThinkSmart™ Core solution bring a new level 
 ![Jabra Panacast 50 + Lenovo ThinkSmart Core + Controller](./../../images/vendors/lenovo/jabra.png "Jabra Panacast 50 + Lenovo ThinkSmart Core + Controller")
 
 [More info on this solution](./../../images/vendors/lenovo/JabraLenovo.pdf)
+
+[**Back to Providers**](./../../hardware/providers.md)

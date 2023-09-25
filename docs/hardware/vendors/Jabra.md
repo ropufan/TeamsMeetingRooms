@@ -28,3 +28,5 @@ It adapts to whatever space they’re in, using four powerful speakers in a zero
 Jabra PanaCast 50 Video Bar System has an easy-to-use PanaCast Control touchscreen tablet to manage everything, your teams can simply walk into their next meeting and instantly get going - directly joining, sharing content, and ending meetings with a simple tap.
 
 ![Jabra PanaCast 50 Video Bar System](./../../images/vendors/jabra/all.png "Jabra PanaCast 50 Video Bar System")
+
+[**Back to Providers**](./../../hardware/providers.md)
