@@ -1,78 +1,59 @@
 # Yealink
 
-Whether it’s a group huddle or an all-staff meeting, just a few remote attendees or mostly virtual, Poly Studio Room Kits for Microsoft Teams Rooms bring everyone together. The complete solution comes fully equipped with Poly AI-driven audio and video technologies, a compact collaboration PC, and easy-to-use touch controller, so your experience is seamless.
+Yealink Video Device Solutions for Microsoft Teams, Empowering Your Business
 
-## Poly | HP [Special Promo - My First Room](https://www.poly.com/gb/en/promotions/my-first-room)
+In the modern teams conference room, organization employees tend to do communication and collaboration with video meeting.
+
+A video meeting not only delivers instant collaboration and communication environment, but fosters productivity and sometimes sparks innovations in a team work.
+
+Fully integrated with Microsoft Teams and cover all the meeting room size, Yealink Teams room system solutions comes with full package devices offer including everything you need for a Microsoft Teams meeting room. Easy to use with premium video and audio experience, the solutions are able to make the teamwork more efficient and collaborative across all meeting spaces.
 
 Below you will find Poly recommendations for each room type, either if you are looking for Android-based systems or Windows-based deployments for Meeting Rooms.
 
-## Focus Room
+## Focus & Small Room
 
 ### Android
 
-- **Poly Studio X30** [🔗](https://www.poly.com/us/en/products/video-conferencing/studio/studio-x30)
+- **Yealink MeetingBar A10** [🔗](https://https://www.yealink.com/en/product-detail/microsoft-teams-rooms-meetingbar-a10)
 
-The Poly Studio X30 offers legendary audio & video performance in a simple all-in-one video bar, optimized for small meeting spaces. Pinpoint-accurate automatic framing and tracking modes, distraction-free audio technology, and life-like 4K UltraHD video provides true meeting equality across hybrid meetings. All the leading cloud video apps are built right in, meaning familiar controls without the need for a PC. And with Poly Lens, deployment, management and analytics are a breeze for IT.
+The MeetingBar A10's compact design makes it perfect for small spaces and home offices, and it can be set up in minutes. With 4K camera and 120° field of view, capture all important details in the room clearly with great color. The built-in 8 MEMS beamforming microphones and speakers in MeetingBar A10 provide full coverage of small spaces for a worry free, full-duplex voice experience. Yealink's enhanced AI noise cancellation enhances the audio experience, leveraging a massive deep-learning sound database to reduce background noises, distracting keyboard clatter, mouse clicks, and footsteps, as well as smartly erase other ambient noises to provide crystal-clear audio quality.
 
-![X30](./../../images/vendors/poly/X30.png "X30")
+![Yealink MeetingBar A10](./../../images/vendors/yealink/A10.png "Yealink MeetingBar A10")
 
-- **Poly TC8 Console** [🔗](https://www.poly.com/gb/en/products/video-conferencing/accessories/tc8)
+Being integrated into a Focus Room, we recommend adding a touchscreen enabled monitor into the room and connect it to the A10. This way, the controlling part of the Meeting Room will be handled directly on the monitor. Otherwise, we recommend adding a CTP18 Touch Panel for meeting control directly on the meeting table. THe CTP18 Touch Panel is described below.
 
-Intuitive touch interface lets you access Teams meetings features with ease. Its sleek design features an 8" high-resolution touch display to make control options clear and accessible. Launch, join and share in an instant, while keeping your focus on the task at hand.
+- **Yealink MeetingBar A20 with CTP18 Touch Panel** [🔗](https://www.yealink.com/en/product-detail/microsoft-teams-rooms-meetingbar-a20)
 
-![TC8](./../../images/vendors/poly/TC8.png "TC8")
+Designed with simplicity, Yealink MeetingBar A20 integrates the conference room webcam, microphone and speakers into an all-in-one system. No PC or individual components are required, allowing plug-and-play for a dedicated small meeting room setup within minutes, greatly reducing the time needed for deployment and management. In addition, connecting to a CTP18 touch panel can be realized for better meeting control.
 
-### Windows
-
-- **Poly Focus Room Kit** (Poly Studio P15, Poly GC8) [🔗](https://www.poly.com/us/en/solutions/platform/microsoft/video/teams-rooms-windows)
-- **HP Mini Conferencing PC** with Microsoft Teams Rooms
-
-![Focus](./../../images/vendors/poly/focusW.png "Focus")
-
-## Small Room
-
-### Android
-
-- **Poly Studio X50** [🔗](https://www.poly.com/us/en/products/video-conferencing/studio/studio-x50)
-
-Experience board-room-quality audio, and knock-your-socks-off video, for mid-sized rooms. The Poly Studio X50 all-in-one video bar is radically simple to use, with support for leading cloud video services built right in — no PC or Mac required. Voices are crisp and clear. Video feels natural. And wireless content sharing lets users collaborate without cables or pucks.
-
-![X50](./../../images/vendors/poly/X50.png "X50")
-
-- **Poly TC8 Console** [🔗](https://www.poly.com/gb/en/products/video-conferencing/accessories/tc8)
-
-Intuitive touch interface lets you access Teams meetings features with ease. Its sleek design features an 8" high-resolution touch display to make control options clear and accessible. Launch, join and share in an instant, while keeping your focus on the task at hand.
-
-![TC8](./../../images/vendors/poly/TC8.png "TC8")
+![Yealink MeetingBar A20](./../../images/vendors/yealink/A20.png "Yealink MeetingBar A20")
 
 ### Windows
 
-- **Poly Small Room Kit** (Poly Studio R30, Poly GC8) [🔗](https://www.poly.com/us/en/solutions/platform/microsoft/video/teams-rooms-windows)
-- **HP Mini Conferencing PC** with Microsoft Teams Rooms
+- **Yealink MVC400** (Yealink UVC40 Camera, Yealink MCore Mini-PC, MTouch II Touch Panel) [🔗](https://www.yealink.com/en/product-detail/microsoft-teams-rooms-mvc400)
 
-![Focus](./../../images/vendors/poly/smallw.png "Small")
+Getting started with Yealink UVC40, the all-in-one USB video bar offers a video and voice experience with an integrated AI-powered camera, microphone arrays and speaker. With the MTouch II and MCore mini-PC, Yealink MVC400 video solution for Teams conference rooms brings a dedicated MTR system that meets the requirements of focus and small meeting rooms. The Yealink UVC40 is equipped with AI technology, including Auto Framing and Speaker Tracking. With the 133° wide-angle lens and Auto Framing, the UVC40 can recognize the number of and the position of attendees, framing everyone smoothly in the most appropriate view even in small spaces. The Speaker Tracking technology with 20MP camera brings a vivid face-to-face meeting in a high-definition visual experience. In addition, with an electric lens cap, the UVC40 camera can automatically turn on and off with the aid of its detection function, securing the privacy of your MVC400 Teams conference rooms. With Yealink Noise Proof Technology and dereverberation, the UVC40 with built-in 8 MEMS microphone arrays and speaker allow users to enjoy full-duplex voice experience seamlessly without interruption and talking freely in a comfortable way. In Yealink MVC II series Microsoft Teams conference room equipments, the MCore cable management solution integrates data transmission and power supply cables into one CAT5e cable, provides a straightforward solution to complicated cabling and reduces the deployment time in your Teams conference room. For MVC400 Teams conference room system, easy deployment can be realized with just connecting the MTouch II and the UVC40 to the MCore mini-PC.
+
+![Yealink MVC40](./../../images/vendors/yealink/MVC40.png "Yealink MVC40")
 
 ## Midsize Room
 
 ### Android
 
-- **Poly Studio X52** | **NEW** [🔗](https://www.poly.com/us/en/products/video-conferencing/studio/studio-x52)
+- **Yealink MeetingBoard 65** [🔗](https://www.yealink.com/en/product-detail/microsoft-teams-rooms-meetingboard65)
 
-Specifically engineered to improve the video conferencing experience within a hybrid meeting environment, the Poly Studio X52 all-in-one video bar simplifies and enhances meetings. Bring meeting equality to attendees both in and out of the room with innovative audio and video experiences.
+Yealink MeetingBoard consists of a 4K camera, crystal-clear speaker, full-duplex microphones, and a 65/86 inch smart collaboration whiteboard to provide an immersive meeting experience and allow collaboration anytime, anywhere. With the 4K camera and powerful encoding and decoding capabilities, MeetingBoard realizes truly smooth and stable HD Teams meetings. Powered by AI technology, the camera brings diverse views such as Auto Framing, Speaker Tracking, Multi-Focus Framing and Picture-in-Picture. MeetingBoard's interactive and inventive features such as premium inking, collaborative diagrams, fluid components, and other rich content, help boost team creativity and productivity. Powered by the Microsoft Whiteboarding, it ensures a seamless real-time collaboration during brainstorming, project planning or problem solving by simple clicks on the smart whiteboard.
+This device is excellent in any type of room, from meeting room, training room up to co-creation spaces and manager's office room.
 
-![X52](./../../images/vendors/poly/X52.png "X52")
+![MB65](./../../images/vendors/yealink/MB65.jpg "MB65")
 
-- **Poly Studio X70** [🔗](https://www.poly.com/us/en/products/video-conferencing/studio/studio-x70)
+- **Yealink MeetingBar A30 with CTP18 Touch Panel** [🔗](https://www.yealink.com/en/product-detail/microsoft-teams-rooms-meetingbar-a30)
 
-Ready for the best damn meeting experience available? The Poly Studio X70 video bar combines stunning design with razor-sharp 4K video and boardroom-filling stereo that brings your large meeting rooms to life. Its all-in-one construction means you can trash all those annoying cables and stop bothering your IT people for help. And with its AI-driven video and audio experiences, the Poly Studio X70 turns any large-room video call into a hassle-free delight.
+Designed with simplicity, the all-in-one video conferencing bar, Yealink MeetingBar A30 integrates an optical camera, 8 MEMS microphone arrays, and speakers into an all-in-one system. No PC or individual components are required, allowing plug-and-play for a dedicated small meeting room setup within minutes, greatly reducing the time needed for deployment and management. In addition, connecting to a CTP18 touch panel can be realized for better meeting control.
 
-![X70](./../../images/vendors/poly/X70.png "X70")
+![Yealink A30](./../../images/vendors/yealink/A30.png "Yealink A30")
 
-- **Poly TC8 Console** [🔗](https://www.poly.com/gb/en/products/video-conferencing/accessories/tc8)
-
-Intuitive touch interface lets you access Teams meetings features with ease. Its sleek design features an 8" high-resolution touch display to make control options clear and accessible. Launch, join and share in an instant, while keeping your focus on the task at hand.
-
-![TC8](./../../images/vendors/poly/TC8.png "TC8")
+===============================================================================
 
 ### Windows
 
