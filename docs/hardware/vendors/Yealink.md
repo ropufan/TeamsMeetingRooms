@@ -40,7 +40,7 @@ Getting started with Yealink UVC40, the all-in-one USB video bar offers a video 
 
 ### Android
 
-- **Yealink MeetingBoard 65** [🔗](https://www.yealink.com/en/product-detail/microsoft-teams-rooms-meetingboard65)
+- **Yealink MeetingBoard 65/85** [🔗](https://www.yealink.com/en/product-detail/microsoft-teams-rooms-meetingboard65)
 
 Yealink MeetingBoard consists of a 4K camera, crystal-clear speaker, full-duplex microphones, and a 65/86 inch smart collaboration whiteboard to provide an immersive meeting experience and allow collaboration anytime, anywhere. With the 4K camera and powerful encoding and decoding capabilities, MeetingBoard realizes truly smooth and stable HD Teams meetings. Powered by AI technology, the camera brings diverse views such as Auto Framing, Speaker Tracking, Multi-Focus Framing and Picture-in-Picture. MeetingBoard's interactive and inventive features such as premium inking, collaborative diagrams, fluid components, and other rich content, help boost team creativity and productivity. Powered by the Microsoft Whiteboarding, it ensures a seamless real-time collaboration during brainstorming, project planning or problem solving by simple clicks on the smart whiteboard.
 This device is excellent in any type of room, from meeting room, training room up to co-creation spaces and manager's office room.
@@ -53,83 +53,65 @@ Designed with simplicity, the all-in-one video conferencing bar, Yealink Meeting
 
 ![Yealink A30](./../../images/vendors/yealink/A30.png "Yealink A30")
 
-===============================================================================
-
 ### Windows
 
-- **Poly Medium Room Kit** (Poly Studio, Poly GC8) [🔗](https://www.poly.com/us/en/solutions/platform/microsoft/video/teams-rooms-windows)
-- **HP Mini Conferencing PC** with Microsoft Teams Rooms
+- **Yealink MVC860 Bundle Solution** (MVC860) [🔗](https://www.yealink.com/en/product-detail/microsoft-teams-rooms-mvc860)
 
-![Medium](./../../images/vendors/poly/mediumw.png "Medium")
+Designed for medium and large rooms, the Yealink MVC860 Microsoft Teams Rooms system is a bundle video solution with UVC86 4K dual-eye tracking video conference camera, MCore mini-PC and MTouch II touch panel. Users can also select video conference equipment like VCM34/VCM38/CPW90 array microphones and MSpeakerII Soundbar to work with MVC860. The bundle solution brings a premium and native Microsoft Teams Room meeting experience you need to interact, connect and collaborate with internal and external users seamlessly and intelligently.
+
+![MVC860](./../../images/vendors/yealink/MVC860.png "MVC860")
 
 ## Large Room
 
 ### Android
 
-- **Poly G7500** [🔗](https://www.poly.com/us/en/products/video-conferencing/g/g7500)
+- **Yealink MeetingBoard 85** [🔗](https://www.yealink.com/en/product-detail/microsoft-teams-rooms-meetingboard65)
 
-If you want more control over your meeting spaces, the Poly G7500 is ready. This modular video conferencing system makes it easy to outfit conference rooms to meet your organization’s unique needs. Loaded with flexible features, the G7500 leverages your design to power your meetings and wow your teams.
+Yealink MeetingBoard consists of a 4K camera, crystal-clear speaker, full-duplex microphones, and a 65/86 inch smart collaboration whiteboard to provide an immersive meeting experience and allow collaboration anytime, anywhere. With the 4K camera and powerful encoding and decoding capabilities, MeetingBoard realizes truly smooth and stable HD Teams meetings. Powered by AI technology, the camera brings diverse views such as Auto Framing, Speaker Tracking, Multi-Focus Framing and Picture-in-Picture. MeetingBoard's interactive and inventive features such as premium inking, collaborative diagrams, fluid components, and other rich content, help boost team creativity and productivity. Powered by the Microsoft Whiteboarding, it ensures a seamless real-time collaboration during brainstorming, project planning or problem solving by simple clicks on the smart whiteboard.
+This device is excellent in any type of room, from meeting room, training room up to co-creation spaces and manager's office room.
 
-- Seamlessly connects to cameras, microphones, and other 3rd party components
-- Built-in video apps for native full-featured experiences
-- Includes Poly NoiseBlockAI and Acoustic Fence technologies
-
-![G7500](./../../images/vendors/poly/G7500.png "G7500")
-
-- **Poly TC8 Console** [🔗](https://www.poly.com/gb/en/products/video-conferencing/accessories/tc8)
-
-Intuitive touch interface lets you access Teams meetings features with ease. Its sleek design features an 8" high-resolution touch display to make control options clear and accessible. Launch, join and share in an instant, while keeping your focus on the task at hand.
-
-![TC8](./../../images/vendors/poly/TC8.png "TC8")
-
-- **Poly E70** [🔗](https://www.poly.com/us/en/products/video-conferencing/studio/studio-e70)
-
-The Poly Studio E70 is a first-of-its-kind intelligent camera that super-charges meeting rooms with mind-blowing video quality and next-level analytics. Dual camera with 20-megapixel 4K sensors are boosted by Poly DirectorAI smart camera technology to create a completely unrivaled video experience – perfect for hybrid working environments.
-
-![E70](./../../images/vendors/poly/E70.png "E70")
+![MB65](./../../images/vendors/yealink/MB65.jpg "MB65")
 
 ### Windows
 
-- **Poly Large Room Kit** (Poly Studio E70, Poly GC8) [🔗](https://www.poly.com/us/en/solutions/platform/microsoft/video/teams-rooms-windows)
-- **HP Mini Conferencing PC** with Microsoft Teams Rooms
+- **Yealink MVC960 Bundle Solution** (MVC960) [🔗](https://www.yealink.com/en/product-detail/microsoft-teams-rooms-mvc960)
 
-![Large](./../../images/vendors/poly/largew.png "Large")
+Designed for extra-large rooms, the Yealink MVC960 Microsoft Teams Rooms system is a bundle video solution with UVC86 multi-camera system, MCore mini-PC, MTouch II touch panel and AVHub, bringing a premium Teams meeting experience you need to interact, connect and collaborate with internal and external users seamlessly and intelligently. With the AVHub in the bundle, the MVC960 system allows users to enable multiple cameras simultaneously from a single room, better capturing participants and providing different views of the rooms. Moreover, the admin can choose different tracking modes for each camera. In the meantime, remote attendees can view the video feeds of all enabled room cameras in a customized layout, contributing to more industrial scenario applications. Paired with Yealink BYOD Extender, the MVC960 enables multi-camera control even in third-party meetings. All these make Yealink MVC960 a video conferencing equipment for large rooms.
 
-> **Warning**
-> **The Poly large room solutions do not include audio capabilities.**
-> For audio it is recommended to go with a dedicated provider.
-> Example: Nureva HDL300 (1-2 pieces) or standard Poly USB audio devices (Poly Sync 40-M [🔗](https://www.poly.com/us/en/products/phones/sync/sync-40), Poly Sync 60-M [🔗](https://www.poly.com/us/en/products/phones/sync/sync-60) and/or Poly Trio C60 [🔗](https://www.poly.com/us/en/products/phones/trio/trio-c60)).
+![MVC960](./../../images/vendors/yealink/MVC860.png "MVC960")
 
-## More details on above-mentioned products and solutions
+## Recommended accessories on above-mentioned products and solutions
 
-## Poly GC8 Touch Console [🔗](https://www.poly.com/us/en/support/products/video-conferencing/group-solutions/poly-gc8)
-The Poly GC8’s intuitive touch interface provides easy access to Poly Window-based conferencing solutions.
+## Yealink RoomPanel for Microsoft Teams [🔗](https://www.yealink.com/en/product-detail/microsoft-teams-roompanel)
 
-Poly GC8 features:
+**Utilize and Manage Your Meeting Spaces with Exceptional Ease and Efficiency.**
 
-- Compatible with Microsoft Teams Rooms on Windows
-- Integrated calendar for one-touch to join a call
-- Easily share content, adjust the camera, and change participant layouts
-- HDMI Ingest cable support
+Yealink RoomPanel is one of the dedicated Microsoft Teams devices with compact touchscreen and ideal for mounted outside the meeting spaces for displaying meeting details scheduled via Teams or Outlook 365 calendaring applications.
+Moreover, the panel is also enabled for reserving an available room on the spot and indicating current room status.
 
-![GC8](./../../images/vendors/poly/GC8.png "GC8")
+![Room Panel](./../../images/vendors/yealink/roomp.png "Room Panel")
 
-> **Warning**
-> The Poly GC8 Touch Console only work with Windows-based certified Teams compute devices, while the Poly TC8 Touch Console will work only with Android-based systems: X-Series and G7500.
+## Yealink MTouch Plus [🔗](https://www.yealink.com/en/product-detail/accessories-mtouchplus)
 
-## The HP Mini Conferencing PC with Microsoft Teams Rooms
+With a spacious 11.6-inch 1080P IPS screen, the new MTouch Plus offers a remarkable control experience, ensuring enhanced visibility and convenience. The sleek space black design and premium texture make it an ideal fit for your elegant meeting rooms.
 
-*The HP Mini Conferencing PC delivers power and performance from every angle with the latest 12th Gen Intel® Core™ i7.*
+![MTouch Plus](./../../images/vendors/yealink/mtouch.jpg "MTouch Plus")
 
-Empower your teams with rich, collaborative experiences across town and around the world in an instant. The HP Mini Conferencing PC with Microsoft Teams Rooms is designed to work with Poly Studio Room Kits for Microsoft Teams Rooms.
+## Yealink WPP30 [🔗](https://www.yealink.com/en/product-detail/video-conferencing-wpp30)
 
-Setting up your conferencing space is fast and easy with the latest Intel® processor driven PC that has Microsoft Teams Rooms preinstalled
-Get a highly secure and manageable PC that has the self-healing protection of HP Sure Start Gen7.
-Get powerful performance from Windows IoT and the latest Intel® processor
-HP Mini Conferencing PC with Microsoft Teams Rooms.
+**4K Wireless Presentation Pod for Every Work Space**
 
-- 12th Generation Intel® Core™ i7 (12700T)
-- 16GB RAM
-- 256GB SSD
+Featured with a compact size and intuitive industry design, Yealink wireless presentation pod WPP30 brings a trouble-free content-sharing experience to any conference room. Empowered with up to 4K/30FPS UHD hardware encode streaming output, WPP30 saves a lot of effort by eliminating the installation of any software or driver. Thanks to the high-performance 2x2 MIMO, Wi-Fi 6 module, WPP30 delivers a super clear, speedy and stable casting experience with low latency.
 
-This is one of the most powerful compute options for Microsoft Teams Rooms on Windows you may find on the market.
+![WPP30](./../../images/vendors/yealink/wpp30.png "WPP30")
+
+## Yealink VCM36-W [🔗](https://www.yealink.com/en/product-detail/accessories-vcm36-w)
+
+**Wireless Microphone for Video Conferencing System**
+
+With its built-in 3-microphone array and Yealink self-developed algorithm, VCM36-W features a 20ft (6m) and 360° voice pickup range, perfectly capturing every voice in medium and large meeting spaces. Moreover, with the Yealink Noise Proof Technology, VCM36-W filters out environmental noise within 90 decibels, delivering crystal-clear audio performance.
+Enjoying the wireless transmission design of VCM36-W, users just need to pair the microphone with the meeting room devices once to start. No more concern about connecting the cables or how different units cascade together. Users can wirelessly connect microphones according to the specific scenarios, simplifying the deployment and allowing users to place and use the device freely.
+
+![VCM36-W](./../../images/vendors/yealink/vcm36-w.png "VCM36-W")
+
+[**Back to Providers**](./../../hardware/providers.md)
