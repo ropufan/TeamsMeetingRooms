@@ -56,6 +56,12 @@ Intuitive touch interface lets you access Teams meetings features with ease. Its
 
 ### Android
 
+- **Poly Studio X52** | **NEW** [🔗](https://www.poly.com/us/en/products/video-conferencing/studio/studio-x52)
+
+Specifically engineered to improve the video conferencing experience within a hybrid meeting environment, the Poly Studio X52 all-in-one video bar simplifies and enhances meetings. Bring meeting equality to attendees both in and out of the room with innovative audio and video experiences.
+
+![X52](./../../images/vendors/poly/X52.png "X52")
+
 - **Poly Studio X70** [🔗](https://www.poly.com/us/en/products/video-conferencing/studio/studio-x70)
 
 Ready for the best damn meeting experience available? The Poly Studio X70 video bar combines stunning design with razor-sharp 4K video and boardroom-filling stereo that brings your large meeting rooms to life. Its all-in-one construction means you can trash all those annoying cables and stop bothering your IT people for help. And with its AI-driven video and audio experiences, the Poly Studio X70 turns any large-room video call into a hassle-free delight.
@@ -146,3 +152,5 @@ HP Mini Conferencing PC with Microsoft Teams Rooms.
 - 256GB SSD
 
 This is one of the most powerful compute options for Microsoft Teams Rooms on Windows you may find on the market.
+
+[**Back to Providers**](./../../hardware/providers.md)
